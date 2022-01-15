@@ -1,0 +1,12 @@
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\bin\Debug\net6.0\OrstedData.deps.json
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\bin\Debug\net6.0\OrstedData.dll
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\bin\Debug\net6.0\ref\OrstedData.dll
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\bin\Debug\net6.0\OrstedData.pdb
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.csproj.AssemblyReference.cache
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.AssemblyInfoInputs.cache
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.AssemblyInfo.cs
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.csproj.CoreCompileInputs.cache
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.dll
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\ref\OrstedData.dll
+C:\Users\UmairHassan\source\repos\OrstedRestAPI\OrstedData\obj\Debug\net6.0\OrstedData.pdb
